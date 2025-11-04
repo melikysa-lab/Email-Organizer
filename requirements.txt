@@ -1,0 +1,5 @@
+boto3
+python-dotenv
+schedule
+email-validator
+python-magic
