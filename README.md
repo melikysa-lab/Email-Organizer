@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Email Organizer Pro
 
 This script automatically downloads and organizes email attachments from Gmail.
@@ -27,3 +28,7 @@ SETUP INSTRUCTIONS
 
 Your attachments will appear in the /downloads/ folder.
 Logs are stored in /logs/organizer.log.
+=======
+# Email-Organizer
+Automates downloading attachments in your email, and sorting them to the right folder daily
+>>>>>>> fe03836aa6ac8acf2df411fa3744f84ec6c6ed7a
